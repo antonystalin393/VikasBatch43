@@ -27,6 +27,9 @@
         <mxCell id="HhL5w9u9uEFjz5POYvZi-4" parent="qdRv1-S1UjLNxD51a2Y8-9" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58536;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="72" width="69" x="419" y="160" as="geometry" />
         </mxCell>
+        <mxCell id="HhL5w9u9uEFjz5POYvZi-32" parent="qdRv1-S1UjLNxD51a2Y8-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.22.0.0/16" vertex="1">
+          <mxGeometry height="30" width="60" x="49" y="20" as="geometry" />
+        </mxCell>
         <mxCell id="5wKFqPnMfmAF6wZ_EGgm-1" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="UST-VPC" vertex="1">
           <mxGeometry height="340" width="200" x="85" y="180" as="geometry" />
         </mxCell>
@@ -74,6 +77,9 @@
         </mxCell>
         <mxCell id="HhL5w9u9uEFjz5POYvZi-29" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="UST-VPC" vertex="1">
           <mxGeometry height="340" width="200" x="530" y="181" as="geometry" />
+        </mxCell>
+        <mxCell id="HhL5w9u9uEFjz5POYvZi-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
